@@ -1,2 +1,3 @@
 # AnimacoesLogin
- Exemplo de animações em tela de Login
+## Com React Native
+ Exemplo de animações em tela de Login usando o Animated do React Native
